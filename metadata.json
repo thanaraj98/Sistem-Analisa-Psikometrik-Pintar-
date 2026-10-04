@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Analisa Psikometrik Pintar (SAPP)",
+  "description": "Sistem Analisa Psikometrik Pintar Sekolah Rendah (Tahun 4, Tahun 5 dan Tahun 6) Berdasarkan Instrumen KPM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
